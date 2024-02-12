@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Yelom29/Yelom29** is a ✨ _special_ ✨ repository because its `MY FIRST REPOSITORY` This repository appears on your GitHub profile.
+**Yelom29/Yelom29** is a ✨ _special_ ✨ repository because its `MY FIRST REPOSITORY` This repository appears on your GitHub profile because;;
 
 Here are some ideas to get you started:
 
